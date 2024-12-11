@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement style="flex-grow: 1;">
+        <ui:Button text="TEST!!!" parse-escape-sequences="true" display-tooltip-when-elided="true" name="TheClickButton" style="background-color: rgb(176, 165, 255); -unity-text-align: middle-center; width: 252px;" />
+        <ui:Label tabindex="-1" text="HD2D" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Label1" />
+    </ui:VisualElement>
+</ui:UXML>
